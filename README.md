@@ -13,7 +13,4 @@ Github Link for MediaPipe Libraries : https://github.com/google/mediapipe
 pip install mediapipe opencv-python
 
 
-Script code in main.py file
-
-
 #### yatharthagoenka
